@@ -12,5 +12,6 @@ namespace WebApi.Models
         public string CarPrice { get; set; }
         public string CarColor { get; set; }
 
+        public string Name { get; set; }
     }
 }
